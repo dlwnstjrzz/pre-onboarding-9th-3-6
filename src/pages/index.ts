@@ -1,1 +1,1 @@
-export {};
+export { default as ClockChart } from './Chart';
